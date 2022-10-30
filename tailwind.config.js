@@ -17,6 +17,8 @@ module.exports = {
         ceniza: "#4F4C4C",
         azulclaro: "#DFE3F5",
         cenizaclaro: "#F7F4F4",
+        verde: "#035A76",
+        gris: " #666666",
       },
       fontFamily: {
         monserrat: ['Montserrat', ...defaultTheme.fontFamily.sans],
