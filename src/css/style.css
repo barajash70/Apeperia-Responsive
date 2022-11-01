@@ -27,3 +27,8 @@
     text-shadow: 1px 3px rgb(218, 216, 216);
 
 }
+
+.cards {
+    box-shadow: 0px 2px 10px rgba(123, 121, 121, 0.063);
+    border-radius: 5px;
+}
