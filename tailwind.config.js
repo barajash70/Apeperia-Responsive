@@ -21,6 +21,7 @@ module.exports = {
         gris: " #666666",
         lila: "#690F8E",
         rojointenso: "#B00024",
+        azul: "#0006FF",
       },
       fontFamily: {
         monserrat: ['Montserrat', ...defaultTheme.fontFamily.sans],

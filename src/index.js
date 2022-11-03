@@ -9,11 +9,7 @@ import android from './assets/img/android.png';
 import blackberry from './assets/img/blackberry.png';
 import apple from './assets/img/apple.png';
 import windows from './assets/img/windowsphone.png';
-
-
-
-
-
+import videoFormacion from './assets/img/formacion-java.mp4';
 
 
 const logoApeperiaElement = document.getElementById("imgLogo");
@@ -45,6 +41,9 @@ appleElement.src = apple;
 
 const windowsElement = document.getElementById("logoWindows");
 windowsElement.src = windows;
+
+const videoFormacionElement = document.getElementById("formacionJava");
+videoFormacionElement.src = videoFormacion;
 
 
 

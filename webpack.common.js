@@ -14,7 +14,7 @@ module.exports = {
         use: ["style-loader", "css-loader", "postcss-loader"],
       },
       {
-        test: /\.(png|svg|jpe?g|gif)$/i,
+        test: /\.(png|svg|jpe?g|gif|mp4)$/i,
         include: path.resolve(__dirname, "src"),
         type: 'asset/resource',
       },
