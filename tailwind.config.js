@@ -22,6 +22,7 @@ module.exports = {
         lila: "#690F8E",
         rojointenso: "#B00024",
         azul: "#0006FF",
+        cenizamedio: "#666666",
       },
       fontFamily: {
         monserrat: ['Montserrat', ...defaultTheme.fontFamily.sans],
@@ -30,7 +31,8 @@ module.exports = {
         '93.75': '375px',
         '87.5': '350px',
         '81.5': '325px',
-        '49.08': '196.32px'
+        '49.08': '196.32px',
+        '167.5': '670 px',
       },
       height: {
         '130.5': '522px',
